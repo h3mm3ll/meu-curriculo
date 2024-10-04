@@ -1,0 +1,25 @@
+.principal{
+    background-color:gray;
+    display:flex;
+    width: 100%;
+    height: 100vh;
+}
+.esquerda{
+    background-color: rgb(172, 31, 31);
+    width: 25%;
+}
+.direita{
+    background-color:white;
+    width: 75%;
+}
+.foto{
+    display: flex;
+    justify-content: center;
+}
+.foto img{
+    margin-top: 10px;
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;
+    
+}
