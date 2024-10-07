@@ -7,10 +7,12 @@
 .esquerda{
     background-color: rgb(172, 31, 31);
     width: 25%;
+    padding: 15px;
 }
 .direita{
     background-color:white;
     width: 75%;
+    padding: 15px;
 }
 .foto{
     display: flex;
@@ -21,5 +23,4 @@
     width: 90%;
     height: 90%;
     border-radius: 50%;
-    
 }
